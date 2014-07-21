@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1341250524 source:c:\users\luthfi\desktop\luthfi\imageloader.cpp
+	<assert.h>
+	<fstream>
+	"imageloader.h"
+
+1341250524 c:\users\luthfi\desktop\luthfi\imageloader.h
+
+1341250524 source:c:\users\luthfi\desktop\luthfi\vec3f.cpp
+	<math.h>
+	"vec3f.h"
+
+1341250524 c:\users\luthfi\desktop\luthfi\vec3f.h
+	<iostream>
+
+1372738169 source:c:\users\luthfi\desktop\luthfi\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<GL/glut.h>
+	<GL/glu.h>
+	<GL/GLAux.h>
+	<GL/gl.h>
+	"imageloader.h"
+	"vec3f.h"
+
