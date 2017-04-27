@@ -1,3 +1,3 @@
 c-finalexamgrafkom
 ==================
-tugas openGL komputer grafika toko hendpron
+Building by using OpenGL in C that was tested by my lecture to accross Computer Graphic Class
